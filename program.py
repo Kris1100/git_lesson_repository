@@ -1,4 +1,4 @@
-#I am an Author
+#I am an new Author!
 print("My first Git program!")
 print("Hello,Python")
-#2017 (c) Me
+#2018-2019  (c) Me
